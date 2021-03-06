@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "277889903855",
+    "project_id": "economizze-5a378",
+    "storage_bucket": "economizze-5a378.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277889903855:android:dd95993522199d585fbf1a",
+        "android_client_info": {
+          "package_name": "com.ferrariapps.economizze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277889903855-73so86v61al142ilkgf6oo3su1usja56.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ferrariapps.economizze",
+            "certificate_hash": "f531565c9bca87802474fa5cfe2be14e9bd5f476"
+          }
+        },
+        {
+          "client_id": "277889903855-faivob3t4j05us2ndh06kicu89b33h3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdpaNePIAGz_Qye8H6hMk0owVu3rUzW0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277889903855-faivob3t4j05us2ndh06kicu89b33h3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
